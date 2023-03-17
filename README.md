@@ -8,7 +8,7 @@ Schedule Board is a flutter app focused on facilitating the communication betwee
 | --- | --- |
 | Biniyam Seid | UGR-9483-13 |
 | Biruktawit Abera | UGR-9634-13 |
-| natnael abebaw | UGR-7747-13 |
+| Natnael Abebaw | UGR-7747-13 
 | Samuel Birhanu | UGR-0848-13 |
 | Yonas Engdu | UGR-4575-13 |
 
